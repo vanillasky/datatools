@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: DBWorks UI
 Bundle-SymbolicName: net.woodenplanet.dbworks.ui; singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 0.9.1.qualifier
 Bundle-Activator: net.woodenplanet.dbworks.ui.DBWorksUIPlugin
 Bundle-Vendor: WoodenPlanet
 Require-Bundle: org.eclipse.ui,
