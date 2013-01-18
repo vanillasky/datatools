@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DBWorks Help
+Bundle-SymbolicName: net.woodenplanet.dbworks.help; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: net.woodenplanet.dbworks.help.DBWorksHelpPlugin
+Bundle-Vendor: WoodenPlanet
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
